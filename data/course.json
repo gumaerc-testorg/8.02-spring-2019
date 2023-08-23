@@ -4,7 +4,13 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
   "legacy_uid": "061ca5a1-a30f-cc54-3fdd-a6589f530fb5",
   "instructors": {
     "content": [
@@ -31,7 +37,11 @@
     "content": "8b60e95c-1584-1b11-bae0-41c7db681f74",
     "website": "8-02-physics-ii-electricity-and-magnetism-spring-2019"
   },
-  "learning_resource_types": [],
-  "site_uid": "93ecf512-acb9-4fb3-af42-c1ffdc149245",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Online Textbook"
+  ],
+  "site_uid": "19ed0384-2891-48dc-9a3c-aa634d773b0b",
+  "site_short_id": "8.02-spring-2019",
   "title": "Course Metadata"
 }
